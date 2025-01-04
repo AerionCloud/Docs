@@ -3,6 +3,7 @@
 We have two types of servers:
 - Host Servers
 - Client's Servers
+  
 They both handle networking a bit differently.
 
 ### Host Servers
